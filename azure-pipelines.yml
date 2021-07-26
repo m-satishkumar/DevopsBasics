@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool:
+pool: Localhost
   vmImage: ubuntu-latest
 
 steps:
